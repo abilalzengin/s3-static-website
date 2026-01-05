@@ -78,9 +78,9 @@ In the architecture, you can configure your infrastructure using the followings,
 
     - Prepare Django environment on EC2 instance based on Developer Notes,
 
-    - Download the "clarusway_aws_capstone" folder from Github repository,
+    - Download the "aws_capstone" folder from Github repository,
 
-    - Install the requirements using requirements.txt in 'clarusway_aws_capstone' folder
+    - Install the requirements using requirements.txt in 'aws_capstone' folder
 
     - Deploy the Django application on port 80.
 
